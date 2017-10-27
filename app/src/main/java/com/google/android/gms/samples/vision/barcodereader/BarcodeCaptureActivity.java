@@ -471,8 +471,15 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
             hudImage.setImageResource(R.drawable.slot3_checked);
             MediaPlayer mp = MediaPlayer.create(this, R.raw.completed);
             mp.start();
+            new Handler().postDelayed(new Runnable() {
+                @Override
+                public void run() {
+                    hudImage.setImageResource(0);
+                }
+            }, 2000);
         } else {
-            hudImage.setImageResource(0);
+            if (hudImage != null)
+                hudImage.setImageResource(0);
         }
     }
 }

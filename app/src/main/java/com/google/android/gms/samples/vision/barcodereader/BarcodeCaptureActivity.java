@@ -470,8 +470,11 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
             promptTitle.setVisibility(View.INVISIBLE);
         } else if (unitScan.equals(slot)) {
             hudImage.setImageResource(R.drawable.slot3_checked);
+            slot = "";
+
             MediaPlayer mp = MediaPlayer.create(this, R.raw.completed);
             mp.start();
+            
             new Handler().postDelayed(new Runnable() {
                 @Override
                 public void run() {

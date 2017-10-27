@@ -76,7 +76,7 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
     public static final String BarcodeObject = "Barcode";
 
     public String unit = "X001A5WRSX";
-    public String slot = "SLOT 1";
+    public String slot;
 
     private CameraSource mCameraSource;
     private CameraSourcePreview mPreview;
@@ -89,6 +89,8 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
     private TextView promptValue;
     private String scannedUnit;
     private String scannedSlow;
+
+    private ImageButton hudImage;
 
     /**
      * Initializes the UI and creates the detector pipeline.
@@ -459,11 +461,18 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
             MediaPlayer mp = MediaPlayer.create(this, R.raw.completed);
             mp.start();
                     //promptValue.setText(slot);
-            ImageButton myImage = (ImageButton) findViewById(R.id.imageButton);
-            myImage.setImageResource(R.drawable.slot3_select);
+            hudImage = (ImageButton) findViewById(R.id.imageButton);
+            hudImage.setImageResource(R.drawable.slot3_select);
+            slot = "slot3";
         } else if (scannedSlow != null && scannedSlow.isEmpty() && unitScan.equals(slot)) {
             promptValue.setText("Done");
             promptTitle.setVisibility(View.INVISIBLE);
+        } else if (unitScan.equals(slot)) {
+            hudImage.setImageResource(R.drawable.slot3_checked);
+            MediaPlayer mp = MediaPlayer.create(this, R.raw.completed);
+            mp.start();
+        } else {
+            hudImage.setImageResource(0);
         }
     }
 }

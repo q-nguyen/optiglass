@@ -1,0 +1,240 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:design:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5a4df6d80e79dada889a56983d819ebd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/9293e0e7d9926df7940c737e85d08ca7/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/61c5d9f0dbb4ab30b1001d90a158c077/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6d6fe2fef8a07c5053e6c1696bbcd8c0/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/7e0b50063e24a18c9d06251d674072de/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7390df2c2694a7223de6ea7d74fe075f/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f39d92cdc141dc4fd7934b3c58e1c7d9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/22ed9f529b07be5798022283d98206e5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/05582e175fb9ca704d687f894cb01462/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Quan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6a94d9957114d67661a72d42f7cb72a1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/041adea13a560e020d0c8ac67617ade5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4f7812fdb874ffdb20a6810453d1e481/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/07877a150011cfb8a05f1b501b72750e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/40871747aeddca574a154d7c9c664dcf/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7aaf6f1e7c3439a070ffc3d63783d754/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f052f3c1d3e97707be0635852d15e7e0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/099c21b955ca778255663779184e67c5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fe5949b6f5689f2c3a6fc0639fb97985/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b1a2b81bc2a5464893ef6e884e6555c7/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:3:5-66
+		INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:10:5-40:19
+MERGED from [com.android.support:design:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5a4df6d80e79dada889a56983d819ebd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5a4df6d80e79dada889a56983d819ebd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/9293e0e7d9926df7940c737e85d08ca7/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/9293e0e7d9926df7940c737e85d08ca7/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/61c5d9f0dbb4ab30b1001d90a158c077/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/61c5d9f0dbb4ab30b1001d90a158c077/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6d6fe2fef8a07c5053e6c1696bbcd8c0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6d6fe2fef8a07c5053e6c1696bbcd8c0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/7e0b50063e24a18c9d06251d674072de/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/7e0b50063e24a18c9d06251d674072de/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7390df2c2694a7223de6ea7d74fe075f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7390df2c2694a7223de6ea7d74fe075f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f39d92cdc141dc4fd7934b3c58e1c7d9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f39d92cdc141dc4fd7934b3c58e1c7d9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/22ed9f529b07be5798022283d98206e5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/22ed9f529b07be5798022283d98206e5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/05582e175fb9ca704d687f894cb01462/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/05582e175fb9ca704d687f894cb01462/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Quan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6a94d9957114d67661a72d42f7cb72a1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Quan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6a94d9957114d67661a72d42f7cb72a1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/041adea13a560e020d0c8ac67617ade5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/041adea13a560e020d0c8ac67617ade5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4f7812fdb874ffdb20a6810453d1e481/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4f7812fdb874ffdb20a6810453d1e481/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/07877a150011cfb8a05f1b501b72750e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/07877a150011cfb8a05f1b501b72750e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/40871747aeddca574a154d7c9c664dcf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/40871747aeddca574a154d7c9c664dcf/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7aaf6f1e7c3439a070ffc3d63783d754/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7aaf6f1e7c3439a070ffc3d63783d754/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f052f3c1d3e97707be0635852d15e7e0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f052f3c1d3e97707be0635852d15e7e0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/099c21b955ca778255663779184e67c5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/099c21b955ca778255663779184e67c5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fe5949b6f5689f2c3a6fc0639fb97985/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fe5949b6f5689f2c3a6fc0639fb97985/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b1a2b81bc2a5464893ef6e884e6555c7/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b1a2b81bc2a5464893ef6e884e6555c7/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:15:9-34
+	android:hardwareAccelerated
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.version
+ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:18:9-20:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7390df2c2694a7223de6ea7d74fe075f/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7390df2c2694a7223de6ea7d74fe075f/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:19:13-58
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:21:9-23:39
+	android:value
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:22:13-70
+activity#com.google.android.gms.samples.vision.barcodereader.MainActivity
+ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:25:9-29:20
+	android:label
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:27:13-56
+	android:name
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:26:13-41
+activity#com.google.android.gms.samples.vision.barcodereader.BarcodeCaptureActivity
+ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:31:9-39:20
+	android:screenOrientation
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:32:13-50
+	android:label
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:33:13-38
+	android:name
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:31:19-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5a4df6d80e79dada889a56983d819ebd/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5a4df6d80e79dada889a56983d819ebd/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/9293e0e7d9926df7940c737e85d08ca7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/9293e0e7d9926df7940c737e85d08ca7/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/61c5d9f0dbb4ab30b1001d90a158c077/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/61c5d9f0dbb4ab30b1001d90a158c077/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6d6fe2fef8a07c5053e6c1696bbcd8c0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6d6fe2fef8a07c5053e6c1696bbcd8c0/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/7e0b50063e24a18c9d06251d674072de/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/7e0b50063e24a18c9d06251d674072de/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7390df2c2694a7223de6ea7d74fe075f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/7390df2c2694a7223de6ea7d74fe075f/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f39d92cdc141dc4fd7934b3c58e1c7d9/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f39d92cdc141dc4fd7934b3c58e1c7d9/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/22ed9f529b07be5798022283d98206e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/22ed9f529b07be5798022283d98206e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/05582e175fb9ca704d687f894cb01462/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/05582e175fb9ca704d687f894cb01462/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Quan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6a94d9957114d67661a72d42f7cb72a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Quan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/6a94d9957114d67661a72d42f7cb72a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/041adea13a560e020d0c8ac67617ade5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/041adea13a560e020d0c8ac67617ade5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4f7812fdb874ffdb20a6810453d1e481/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4f7812fdb874ffdb20a6810453d1e481/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/07877a150011cfb8a05f1b501b72750e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/07877a150011cfb8a05f1b501b72750e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/40871747aeddca574a154d7c9c664dcf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/40871747aeddca574a154d7c9c664dcf/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7aaf6f1e7c3439a070ffc3d63783d754/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7aaf6f1e7c3439a070ffc3d63783d754/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f052f3c1d3e97707be0635852d15e7e0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f052f3c1d3e97707be0635852d15e7e0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/099c21b955ca778255663779184e67c5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/099c21b955ca778255663779184e67c5/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fe5949b6f5689f2c3a6fc0639fb97985/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fe5949b6f5689f2c3a6fc0639fb97985/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b1a2b81bc2a5464893ef6e884e6555c7/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b1a2b81bc2a5464893ef6e884e6555c7/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5a4df6d80e79dada889a56983d819ebd/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Quan/AndroidStudioProjects/OptiGlass/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5a4df6d80e79dada889a56983d819ebd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f39d92cdc141dc4fd7934b3c58e1c7d9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f39d92cdc141dc4fd7934b3c58e1c7d9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/22ed9f529b07be5798022283d98206e5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/22ed9f529b07be5798022283d98206e5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/05582e175fb9ca704d687f894cb01462/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/05582e175fb9ca704d687f894cb01462/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/041adea13a560e020d0c8ac67617ade5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/041adea13a560e020d0c8ac67617ade5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4f7812fdb874ffdb20a6810453d1e481/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/4f7812fdb874ffdb20a6810453d1e481/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/07877a150011cfb8a05f1b501b72750e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/07877a150011cfb8a05f1b501b72750e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/40871747aeddca574a154d7c9c664dcf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/40871747aeddca574a154d7c9c664dcf/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7aaf6f1e7c3439a070ffc3d63783d754/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/7aaf6f1e7c3439a070ffc3d63783d754/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f052f3c1d3e97707be0635852d15e7e0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/f052f3c1d3e97707be0635852d15e7e0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/099c21b955ca778255663779184e67c5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/099c21b955ca778255663779184e67c5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fe5949b6f5689f2c3a6fc0639fb97985/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/fe5949b6f5689f2c3a6fc0639fb97985/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5a4df6d80e79dada889a56983d819ebd/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/5a4df6d80e79dada889a56983d819ebd/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6d6fe2fef8a07c5053e6c1696bbcd8c0/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6d6fe2fef8a07c5053e6c1696bbcd8c0/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6d6fe2fef8a07c5053e6c1696bbcd8c0/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/Quan/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/6d6fe2fef8a07c5053e6c1696bbcd8c0/AndroidManifest.xml:19:19-85
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b1a2b81bc2a5464893ef6e884e6555c7/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b1a2b81bc2a5464893ef6e884e6555c7/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/Quan/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/b1a2b81bc2a5464893ef6e884e6555c7/AndroidManifest.xml:26:13-58

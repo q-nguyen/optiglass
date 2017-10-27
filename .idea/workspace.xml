@@ -14,6 +14,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ce333ce-7a4d-4bb1-8ff2-e46cd51b5c5e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/BarcodeCaptureActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/BarcodeCaptureActivity.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,18 +50,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BarcodeCaptureActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BarcodeCaptureActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/BarcodeCaptureActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="225" column="59" lean-forward="false" selection-start-line="225" selection-start-column="59" selection-end-line="225" selection-end-column="59" />
+            <state relative-caret-position="285">
+              <caret line="487" column="16" lean-forward="false" selection-start-line="487" selection-start-column="16" selection-end-line="487" selection-end-column="16" />
               <folding>
-                <element signature="e#6499#6535#0" expanded="true" />
-                <element signature="e#6608#6619#0" expanded="true" />
-                <element signature="e#9259#9285#0" expanded="true" />
-                <element signature="e#9341#9378#0" expanded="true" />
-                <element signature="e#13296#13325#0" expanded="true" />
-                <element signature="e#13362#13373#0" expanded="true" />
+                <element signature="e#6464#6500#0" expanded="true" />
+                <element signature="e#6573#6584#0" expanded="true" />
+                <element signature="e#9224#9250#0" expanded="true" />
+                <element signature="e#9306#9343#0" expanded="true" />
+                <element signature="e#13261#13290#0" expanded="true" />
+                <element signature="e#13327#13338#0" expanded="true" />
+                <element signature="e#19813#19973#0" expanded="true" />
+                <element signature="e#19972#19973#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+            <state relative-caret-position="230">
+              <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -1877,11 +1891,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/settings.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/ui/camera/CameraSource.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/ui/camera/CameraSourcePreview.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout-land/barcode_capture.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/BarcodeCaptureActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -2026,7 +2040,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="023e3070b47d54ae" />
+    <property name="device.picker.selection" value="HT69M0203594" />
     <property name="SearchEverywhereHistoryKey" value="if (childHeight &gt; layoutHeight)&#9;null&#9;null&#10;childHeight&#9;PSI&#9;JAVA://javafx.scene.layout.AnchorPane#computeChildHeight&#10;checkUnit&#9;PSI&#9;JAVA://com.google.android.gms.samples.vision.barcodereader.BarcodeCaptureActivity#checkUnit" />
     <property name="android.profiler.active" value="true" />
   </component>
@@ -2112,7 +2126,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1509127668464" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1509128602777" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2159,7 +2173,7 @@
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1509127668465" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1509128602778" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2191,6 +2205,27 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -2315,12 +2350,12 @@
         <option name="SHOW_OPTIMIZED_WARNING" value="true" />
       </Native>
       <Profilers>
-        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="ADVANCED_PROFILING_ENABLED" value="true" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1509127668467" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1509128602783" />
       </method>
     </configuration>
     <list size="1">
@@ -2363,8 +2398,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6882431" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.4828326" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -2376,12 +2412,12 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20871863" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.4914163" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893" sideWeight="0.49427754" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26466382" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26466382" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2412,12 +2448,14 @@
         <state relative-caret-position="1395">
           <caret line="93" column="31" lean-forward="false" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="31" />
           <folding>
-            <element signature="e#6499#6535#0" expanded="true" />
-            <element signature="e#6608#6619#0" expanded="true" />
-            <element signature="e#9259#9285#0" expanded="true" />
-            <element signature="e#9341#9378#0" expanded="true" />
-            <element signature="e#13296#13325#0" expanded="true" />
-            <element signature="e#13362#13373#0" expanded="true" />
+            <element signature="e#6464#6500#0" expanded="true" />
+            <element signature="e#6573#6584#0" expanded="true" />
+            <element signature="e#9224#9250#0" expanded="true" />
+            <element signature="e#9306#9343#0" expanded="true" />
+            <element signature="e#13261#13290#0" expanded="true" />
+            <element signature="e#13327#13338#0" expanded="true" />
+            <element signature="e#19813#19973#0" expanded="true" />
+            <element signature="e#19972#19973#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2454,12 +2492,14 @@
         <state relative-caret-position="585">
           <caret line="93" column="31" lean-forward="false" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="31" />
           <folding>
-            <element signature="e#6499#6535#0" expanded="true" />
-            <element signature="e#6608#6619#0" expanded="true" />
-            <element signature="e#9259#9285#0" expanded="true" />
-            <element signature="e#9341#9378#0" expanded="true" />
-            <element signature="e#13296#13325#0" expanded="true" />
-            <element signature="e#13362#13373#0" expanded="true" />
+            <element signature="e#6464#6500#0" expanded="true" />
+            <element signature="e#6573#6584#0" expanded="true" />
+            <element signature="e#9224#9250#0" expanded="true" />
+            <element signature="e#9306#9343#0" expanded="true" />
+            <element signature="e#13261#13290#0" expanded="true" />
+            <element signature="e#13327#13338#0" expanded="true" />
+            <element signature="e#19813#19973#0" expanded="true" />
+            <element signature="e#19972#19973#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2496,12 +2536,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#6499#6535#0" expanded="true" />
-            <element signature="e#6608#6619#0" expanded="true" />
-            <element signature="e#9259#9285#0" expanded="true" />
-            <element signature="e#9341#9378#0" expanded="true" />
-            <element signature="e#13296#13325#0" expanded="true" />
-            <element signature="e#13362#13373#0" expanded="true" />
+            <element signature="e#6464#6500#0" expanded="true" />
+            <element signature="e#6573#6584#0" expanded="true" />
+            <element signature="e#9224#9250#0" expanded="true" />
+            <element signature="e#9306#9343#0" expanded="true" />
+            <element signature="e#13261#13290#0" expanded="true" />
+            <element signature="e#13327#13338#0" expanded="true" />
+            <element signature="e#19813#19973#0" expanded="true" />
+            <element signature="e#19972#19973#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2543,12 +2585,14 @@
         <state relative-caret-position="810">
           <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
           <folding>
-            <element signature="e#6499#6535#0" expanded="true" />
-            <element signature="e#6608#6619#0" expanded="true" />
-            <element signature="e#9259#9285#0" expanded="true" />
-            <element signature="e#9341#9378#0" expanded="true" />
-            <element signature="e#13296#13325#0" expanded="true" />
-            <element signature="e#13362#13373#0" expanded="true" />
+            <element signature="e#6464#6500#0" expanded="true" />
+            <element signature="e#6573#6584#0" expanded="true" />
+            <element signature="e#9224#9250#0" expanded="true" />
+            <element signature="e#9306#9343#0" expanded="true" />
+            <element signature="e#13261#13290#0" expanded="true" />
+            <element signature="e#13327#13338#0" expanded="true" />
+            <element signature="e#19813#19973#0" expanded="true" />
+            <element signature="e#19972#19973#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2590,12 +2634,14 @@
         <state relative-caret-position="1800">
           <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
           <folding>
-            <element signature="e#6499#6535#0" expanded="true" />
-            <element signature="e#6608#6619#0" expanded="true" />
-            <element signature="e#9259#9285#0" expanded="true" />
-            <element signature="e#9341#9378#0" expanded="true" />
-            <element signature="e#13296#13325#0" expanded="true" />
-            <element signature="e#13362#13373#0" expanded="true" />
+            <element signature="e#6464#6500#0" expanded="true" />
+            <element signature="e#6573#6584#0" expanded="true" />
+            <element signature="e#9224#9250#0" expanded="true" />
+            <element signature="e#9306#9343#0" expanded="true" />
+            <element signature="e#13261#13290#0" expanded="true" />
+            <element signature="e#13327#13338#0" expanded="true" />
+            <element signature="e#19813#19973#0" expanded="true" />
+            <element signature="e#19972#19973#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2633,17 +2679,6 @@
           <caret line="31" column="13" lean-forward="false" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/barcode_capture.xml">
@@ -2705,17 +2740,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/android/gms/samples/vision/barcodereader/BarcodeCaptureActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="225" column="59" lean-forward="false" selection-start-line="225" selection-start-column="59" selection-end-line="225" selection-end-column="59" />
+        <state relative-caret-position="285">
+          <caret line="487" column="16" lean-forward="false" selection-start-line="487" selection-start-column="16" selection-end-line="487" selection-end-column="16" />
           <folding>
-            <element signature="e#6499#6535#0" expanded="true" />
-            <element signature="e#6608#6619#0" expanded="true" />
-            <element signature="e#9259#9285#0" expanded="true" />
-            <element signature="e#9341#9378#0" expanded="true" />
-            <element signature="e#13296#13325#0" expanded="true" />
-            <element signature="e#13362#13373#0" expanded="true" />
+            <element signature="e#6464#6500#0" expanded="true" />
+            <element signature="e#6573#6584#0" expanded="true" />
+            <element signature="e#9224#9250#0" expanded="true" />
+            <element signature="e#9306#9343#0" expanded="true" />
+            <element signature="e#13261#13290#0" expanded="true" />
+            <element signature="e#13327#13338#0" expanded="true" />
+            <element signature="e#19813#19973#0" expanded="true" />
+            <element signature="e#19972#19973#0" expanded="true" />
           </folding>
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="22" column="38" lean-forward="false" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
       </provider>
     </entry>
   </component>

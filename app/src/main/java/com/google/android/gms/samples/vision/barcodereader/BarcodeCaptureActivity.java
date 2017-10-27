@@ -39,7 +39,6 @@ import android.view.GestureDetector;
 import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
-import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -89,7 +88,7 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
     private TextView promptTitle;
     private TextView promptValue;
     private String scannedUnit;
-    private String scannedSlow;
+    private String scannedSlot;
 
     private ImageView hudImage;
 
@@ -462,8 +461,8 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
         //do something with barcode data returned
     }
 
-    public void checkUnit(String unitScan) {
-        if (unitScan.equals(unit)) {
+    public void checkUnit(String scan) {
+        if (scan.equals(unit) && !unit.equals(scannedUnit)) {
             scannedUnit = unit;
             MediaPlayer mp = MediaPlayer.create(this, R.raw.completed);
             mp.start();
@@ -471,10 +470,10 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
             hudImage = (ImageView) findViewById(R.id.hudView);
             hudImage.setImageResource(R.drawable.slot3_select);
             slot = "slot3";
-        } else if (scannedSlow != null && scannedSlow.isEmpty() && unitScan.equals(slot)) {
+        } else if (scannedSlot != null && scannedSlot.isEmpty() && scan.equals(slot)) {
             promptValue.setText("Done");
             promptTitle.setVisibility(View.INVISIBLE);
-        } else if (unitScan.equals(slot)) {
+        } else if (scan.equals(slot)) {
             hudImage.setImageResource(R.drawable.slot3_checked);
             slot = "";
 
@@ -486,10 +485,11 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
                 public void run() {
                     hudImage.setImageResource(0);
                 }
-            }, 2000);
-        } else {
-            if (hudImage != null)
-                hudImage.setImageResource(0);
+            }, 4000);
         }
+//        else {
+//            if (hudImage != null)
+//                hudImage.setImageResource(0);
+//        }
     }
 }

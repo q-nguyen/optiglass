@@ -124,6 +124,9 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
         Snackbar.make(mGraphicOverlay, "Tap to capture. Pinch/Stretch to zoom",
                 Snackbar.LENGTH_LONG)
                 .show();
+
+        hudImage = (ImageView) findViewById(R.id.imageButton);
+        hudImage.setVisibility(View.INVISIBLE);
     }
 
     /**
@@ -458,11 +461,12 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
 
     public void checkUnit(String unitScan) {
         if (unitScan.equals(unit)) {
+            hudImage.setVisibility(View.VISIBLE);
             scannedUnit = unit;
+
             MediaPlayer mp = MediaPlayer.create(this, R.raw.completed);
             mp.start();
-                    //promptValue.setText(slot);
-            hudImage = (ImageView) findViewById(R.id.hudView);
+
             hudImage.setImageResource(R.drawable.slot3_select);
             slot = "slot3";
         } else if (scannedSlow != null && scannedSlow.isEmpty() && unitScan.equals(slot)) {
@@ -470,12 +474,17 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
             promptTitle.setVisibility(View.INVISIBLE);
         } else if (unitScan.equals(slot)) {
             hudImage.setImageResource(R.drawable.slot3_checked);
+
             MediaPlayer mp = MediaPlayer.create(this, R.raw.completed);
             mp.start();
+
+            slot = "";
+
             new Handler().postDelayed(new Runnable() {
                 @Override
                 public void run() {
                     hudImage.setImageResource(0);
+                    hudImage.setVisibility(View.INVISIBLE);
                 }
             }, 2000);
         } else {

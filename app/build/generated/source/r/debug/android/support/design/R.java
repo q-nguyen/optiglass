@@ -799,9 +799,9 @@ public final class R {
         public static final int forever = 0x7f08004d;
         public static final int ghost_view = 0x7f08004e;
         public static final int home = 0x7f080050;
-        public static final int icon = 0x7f080052;
-        public static final int icon_group = 0x7f080053;
-        public static final int image = 0x7f080056;
+        public static final int icon = 0x7f080053;
+        public static final int icon_group = 0x7f080054;
+        public static final int image = 0x7f080057;
         public static final int info = 0x7f080058;
         public static final int italic = 0x7f080059;
         public static final int item_touch_helper_previous_elevation = 0x7f08005a;

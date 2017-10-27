@@ -623,9 +623,9 @@ public final class R {
         public static final int expanded_menu = 0x7f080048;
         public static final int forever = 0x7f08004d;
         public static final int home = 0x7f080050;
-        public static final int icon = 0x7f080052;
-        public static final int icon_group = 0x7f080053;
-        public static final int image = 0x7f080056;
+        public static final int icon = 0x7f080053;
+        public static final int icon_group = 0x7f080054;
+        public static final int image = 0x7f080057;
         public static final int info = 0x7f080058;
         public static final int italic = 0x7f080059;
         public static final int line1 = 0x7f08005e;

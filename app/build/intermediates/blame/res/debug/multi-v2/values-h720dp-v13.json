@@ -1,21 +1,6 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Quan/AndroidStudioProjects/barcode-reader/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
-            "map": [
-                {
-                    "source": "/Users/Quan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f39d92cdc141dc4fd7934b3c58e1c7d9/res/values-h720dp-v13/values-h720dp-v13.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "66",
-                        "endOffsets": "117"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/Quan/AndroidStudioProjects/OptiGlass/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
             "map": [
                 {

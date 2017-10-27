@@ -40,6 +40,7 @@ import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -90,7 +91,7 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
     private String scannedUnit;
     private String scannedSlow;
 
-    private ImageButton hudImage;
+    private ImageView hudImage;
 
     /**
      * Initializes the UI and creates the detector pipeline.
@@ -124,7 +125,7 @@ public final class BarcodeCaptureActivity extends AppCompatActivity implements B
                 Snackbar.LENGTH_LONG)
                 .show();
 
-        hudImage = (ImageButton) findViewById(R.id.imageButton);
+        hudImage = (ImageView) findViewById(R.id.imageButton);
         hudImage.setVisibility(View.INVISIBLE);
     }
 

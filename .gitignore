@@ -1,0 +1,9 @@
+.gradle
+.idea
+app/build
+*.DS_Store
+build
+import-summary.txt
+local.properties
+app/app.iml
+ot_android.iml
